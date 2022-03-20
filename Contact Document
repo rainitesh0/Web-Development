@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Contact Me</title>
+  </head>
+  <body>
+    <h1>My Contact Details</h1>
+    <ul>
+      <li>Contact No.: +91 8318018503</li>
+      <li>Email Id : niteshrai00067@gmail.com</li>
+      <li>Address : Doon Vihar, Dehradun, Uttarakhand, 248001</li>
+    </ul>
+
+    <form class="" action="index.html" method="post">
+      <label>Didn't finding anything? Search here.</label>
+      <input type="search" name="" value="">
+
+      <label>Provide Your Name:</label>
+      <input type="text" name="" value="">
+      <input type="color" name="" value="">
+    <br>
+
+      <label>Your Email:</label>
+      <input type="email" name="" value=""><br>
+
+      <label>Make a Password :</label>
+      <input type="password" name="" value=""><br>
+
+      <label>Select Date and Time:</label>
+      <input type="datetime-local" name="" value=""><br>
+
+      <input type="radio" name="" value="">
+      <label>Upload a file:</label>
+      <input type="file" name="" value=""><br>
+
+
+      <!--
+
+      <input type="hidden" name="" value=""> : A control that is not displayed but whose value is submitted to the server. There is an example in the next column, but it's hidden!
+
+      <input type="image" name="" value=""><br> : A graphical submit button. Displays an image defined by the src attribute. The alt attribute displays if the image src is missing.
+
+      <input type="date" name="" value=""> : A control for entering a date (year, month, and day, with no time). Opens a date picker or numeric wheels for year, month, day when active in supporting browsers.
+
+      <input type="month" name="" value=""> : A control for entering a month and year, with no time zone.
+
+      <input type="number" name="" value="">  : A control for entering a number. Displays a spinner and adds default validation when supported. Displays a numeric keypad in some devices with dynamic keypads.
+
+      <input type="time" name="" value=""> : A control for entering a time value with no time zone.
+
+      <input type="week" name="" value=""> : A control for entering a date consisting of a week-year number and a week number with no time zone.
+
+
+      -->
+
+      <label>Preferable Working Hours</label>
+      <input type="range" name="" value=""><br>
+
+      <label>Telephone No. : </label>
+      <input type="tel" name="" value=""><br>
+
+      <label>Add URL : </label>
+      <input type="url" name="" value="">
+
+      <input type="submit" name="">
+      <input type="reset" name=""><br>
+
+
+    </form>
+    </body>
+</html>
